@@ -17,4 +17,4 @@ Grading system based on score ranges
 
 ---
 
-This grading system is based on academic scores rabges 
+This grading system is based on academic scores ranges 
